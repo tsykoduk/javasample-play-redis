@@ -1,0 +1,8 @@
+{
+  "name": "Play Redis Sample App",
+  "description": "A play app that shows off Redis",
+  "repository": "https://github.com/tsykoduk/javasample-play-redis",
+  "logo": "",
+  "keywords": ["Play", "Redis"]
+  "addons": ["redistogo", "papertrail"]
+}
